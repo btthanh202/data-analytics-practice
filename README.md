@@ -12,12 +12,6 @@ This repository contains a dataset from Kaggle and exercises for practicing data
   - `summary_statistics.xlsx`: Excel file with basic statistics.
   - `data_visualization.xlsx`: Excel file with charts and data visualizations.
 
-- `scripts/`: Contains scripts or steps for data processing.
-  - `data_loading_script.xlsx`: Steps to load data into Excel.
-  - `data_cleaning_script.xlsx`: Steps to clean data in Excel.
-  - `data_analysis_script.xlsx`: Steps to analyze data in Excel.
-  - `data_visualization_script.xlsx`: Steps to create data visualizations in Excel.
-
 - `cognos_reports/`: Contains Cognos dashboard reports.
   - `cognos_dashboard_report_1.pdf`: Cognos dashboard report 1.
   - `cognos_dashboard_report_2.pdf`: Cognos dashboard report 2.
